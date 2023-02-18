@@ -1,8 +1,10 @@
 ---
 title: First Post
-date: 2023-02-18 12:17:05 +/-TTTT
+author: RalphLafa
+date: 2023-02-18 12:17:05 +0800
 categories: [DAILY, DIARY]
 tags: [daily]
+math: true
 ---
 
 # Header
