@@ -7,6 +7,8 @@ tags: [linearalgebra]
 math: true
 ---
 
+<font size = "3">
+
 ## Central problem of linear algebra
 
 ## Basic Concepts
@@ -24,9 +26,11 @@ $
 
 There are two methods to solve this system.
 
+<font size = "5">
 
 **1. Elimination**\
 **2. Determinants**
+</font>
 
  For elimination, we can just multiply certain number to equation 2 to remove one of unknowns and then, proceed **Back-substitution** \
  To apply to given example, 
@@ -37,4 +41,4 @@ $
   \end{align}
 $
 
-
+</font>
