@@ -7,7 +7,7 @@ tags: [linearalgebra]
 math: true
 ---
 
-# Central problem of linear algebra
+## Central problem of linear algebra
 
 ## Basic Concepts
 
