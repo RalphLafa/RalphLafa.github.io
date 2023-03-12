@@ -25,7 +25,7 @@ math: true
  <br />
 <br />
 
-![Bias-variance tradeoff](./images/bias_variance.png)
+![ScreenShot](/images/bias_variance.png)
 
 <br />
 <br />
