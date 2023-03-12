@@ -25,7 +25,7 @@ math: true
  <br />
 <br />
 
-<img src = "./images/bias_variance.png" width = "640px" height = "480px" title = "Bias-Variance tradeoff"/>
+![Bias-variance tradeoff](./images/bias_variance.png)
 
 <br />
 <br />
