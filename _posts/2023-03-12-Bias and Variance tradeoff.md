@@ -1,7 +1,7 @@
 ---
 title: Bias and Variance
 author: RalphLafa
-date: 2023-03-11 12:48:05 +0000
+date: 2023-03-12 00:48:05 +0800
 categories: [Statistics]
 tags: [statistics]
 math: true
@@ -25,7 +25,7 @@ math: true
  <br />
 <br />
 
-![ScreenShot](/images/bias_variance.png)
+ <img src = "./images/bias_variance.png" alt = "bias_variance">
 
 <br />
 <br />
